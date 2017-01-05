@@ -1,6 +1,6 @@
 # Independent Study Proposal
 ## COMP 692 - Non-Governmental Organization Governance Management Systems
-Jamie Czerwinski \<[jamie.czerwinski@gmail.com](jamie.czerwinski@gmail.com)\>  
+Jamie Czerwinski [\<jamie.czerwinski@gmail.com\>](jamie.czerwinski@gmail.com)  
 Athabasca University
 
 Couses Previously Taken:
