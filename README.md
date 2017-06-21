@@ -39,7 +39,7 @@ At the end of the course, a successful student will be able to:
 
 # Study Plan
 
-- Week 1: Begin readings. Continue throughout.
+- Week 1: Begin readings and Assignment 1. Continue throughout. 
 - Week 2: Begin Assignment 2.
 - Week 3:
 - Week 4: 
