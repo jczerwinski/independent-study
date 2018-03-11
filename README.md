@@ -1,63 +1,87 @@
-# Independent Study Proposal
-## COMP 692 - Academic Writing Tools
+# COMP 692 - Independent Study - Academic Writing Tools
 Jamie Czerwinski [\<jamie.czerwinski@gmail.com\>](jamie.czerwinski@gmail.com)  
 Athabasca University
 
-Couses Previously Taken:
+As per the [Independent Study syllabus](http://www.athabascau.ca/syllabi/comp/comp692_3.php).
 
-- COMP 601
-- COMP 605
-- COMP 682
-- COMP 695 (In progress)
+## Overview
 
-# Rationale for the course
+Students and academics spend considerable time writing. Much of this time is wasted on visual styling. Academics are subject matter experts, and not, as a rule, designers. As such, this time would be better spent developing content. Furthermore, many tools used by academics to author scholarly documents tightly couple content and presentation -- this is a design anti-pattern. Academics also spend a significant amount of time on citation management. These problems have given rise to a large ecosystem of tools that seek to solve them.
 
-Writing comprises a significant part of the work time of academics. Much of this time is spent refining presentation, and not developing content. Academics are subject matter experts, and not, as a rule, designers. As such, this time is better spent developing content. Furthermore, many of the tools and templates used by academics to author scholarly documents tightly couple content and presentation -- this is a design anti-pattern.
+This course explores the use of academic writing tools. Lines of inquiry include:
 
-A significant amount of time is also spent on citation management. While a number of citation management systems exist, they often integrate poorly into the writing workflow.
-
-While LaTeX solves many of these problems, it is highly technical and somewhat difficult to set up and use. It is also primarily designed for typesetting printed documents -- a largely obsolete requirement.
-
-The growth in popularity of Markdown as a lightweight markup language offers a potential solution to many of these problems. It offers a simple markup syntax, decoupled content and presentation, is web-friendly, and has a healthy ecosystem of tools. Its current weakness is citation management.
-
-This course explores themes around the use of academic writing tools. Questions explored include:
-
-- What does the academic writing tool ecosystem look like?
+- What is the state of the academic writing tool ecosystem?
 - What challenges exist to the adoption of academic writing tools?
 - What opportunities exist for academic writing tools to improve?
 - What might improved academic writing tools look like?
 
-# Learning objectives
+## Course Objectives/Learning Outcomes
 
 At the end of the course, a successful student will be able to:
 
-- Describe the academic writing and citation management tool ecosystem.
-- Analyze and evaluate the requirements of academic writing and citation management tool users.
-- Analyze and evaluate the the strengths and weaknesses of existing academic writing and citation management tools.
-- Identify opportunities to improve academic writing and citation management tools. 
-- Design and develop improvements to academic writing and citation management tools.
+- Critically analyze and evaluate academic writing and citation management tools.
+- Analyze, evaluate, and specify the requirements of academic writing and citation management tool users.
+- Design and develop academic writing and citation management tools.
 
-# Study Plan
+## Evaluation
 
-- Week 1: Begin readings and Assignment 1. Continue throughout. 
-- Week 2: Begin Assignment 2.
-- Week 3:
-- Week 4: 
-- Week 5: 
-- Week 6: Submit Assignment 2.
-- Week 7: Begin Assignment 3.
-- Week 8: 
-- Week 9: 
-- Week 10: Submit Assignment 3.
-- Week 11: Begin Assignment 4.
-- Week 12: 
-- Week 13: 
-- Week 14: 
-- Week 15: Submit Assignment 4. Submit Assignment 1.
+This course will include three assignments:
 
-# Assignments
+1. Essay: An essay that analyzes and evaluates a selection of current academic writing and citation management tools. (25% of final grade)
+2. Requirements: A requirements document of a prototype academic writing and/or citation management system that solves some set of problems identified in assignment 2. (25% of final grade)
+3. Design: A design of a prototype system that meets the requirements set out in assignment 2. (25% of final grade)
+4. Implementation: A prototype system that implements the design set out in assignment 3. (25% of final grade)
 
-1. A list of readings completed during this course of study. (10% of final grade)
-2. A web document that analyzes and evaluates the current state of academic writing and citation management tools (30% of final grade)
-3. A requirements analysis and design of a system that solves some problem identified in assignment 2. (30% of final grade)
-4. A prototype implementation of the design provided in assignment 3. (30% of final grade)
+### Assignment 1
+
+Assignment 1 will comprise an essay that analyzes and evaluates a selection of current academic writing and citation management tools. It will be graded out of a total of 100 marks.
+
+10 marks will be awarded for proper use of language and styles.
+
+The essay will include the following sections:
+
+- Summary and Conclusion (10 marks)
+- Academic Writing Tools (40 marks)
+- Citation Management Tools (40 marks)
+
+The Academic Writing Tools and Citation Management Tools sections will each analyze and evaluate three (3) different tools.
+
+These sections will include the following sub-sections:
+
+- Summary (5 marks)
+- Comparison Table (5 marks)
+- Tool 1 Analysis (10 marks)
+- Tool 2 Analysis (10 marks)
+- Tool 3 Analysis (10 marks)
+
+The Comparison Table will compare the three selected tools along a number of dimensions including, but not necessarily limited to:
+
+- Ease of use
+- Compatibility
+- Cost
+- Licensing
+
+Each tool's analysis will comprise the following sections (when applicable):
+
+- Summary (2 marks)
+- System Requirements/Dependencies (2 marks)
+- Installation (2 marks)
+- Usage (2 marks)
+  - Writing
+  - Citations
+  - Rendering
+    - PDF
+    - Web document
+- Critical Assessment (2 marks)
+  - Strengths and weaknesses
+
+### Assignment 2
+
+Assignment 2 will comprise a requirements document for a prototype academic writing and/or citation management system that solves some set of problems identified in assignment 2. It will be graded out of a total of 100 marks.
+
+10 marks will be awarded for proper use of language and styles.
+
+Because the specific The requirements document will include the following sections:
+
+- User Requirements
+- System Requirements
