@@ -25,7 +25,8 @@ At the end of the course, a successful student will be able to:
 
 ## Evaluation
 
-This course will include two assignments:
+This course will include three assignments:
 
-1. [Interface Design](assignment-1.md): An interface design of a prototype academic writing system. (50% of final grade)
-2. [Implementation](assignment-3.md): A prototype system that implements the design in assignment 1. (50% of final grade)
+1. [Design](assignment-1.md): A design of a academic writing system. (50% of final grade)
+2. [Implementation](assignment-2.md): A system that implements the design in Assignment 1. (40% of final grade)
+3. [Demonstration](assignment-3.md): A demonstration of the system developed in Assignment 2. (10% of final grade)
