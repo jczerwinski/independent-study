@@ -20,68 +20,12 @@ This course explores the use of academic writing tools. Lines of inquiry include
 At the end of the course, a successful student will be able to:
 
 - Critically analyze and evaluate academic writing and citation management tools.
-- Analyze, evaluate, and specify the requirements of academic writing and citation management tool users.
+- Analyze and evaluate the requirements of academic writing and citation management tool users.
 - Design and develop academic writing and citation management tools.
 
 ## Evaluation
 
-This course will include three assignments:
+This course will include two assignments:
 
-1. Essay: An essay that analyzes and evaluates a selection of current academic writing and citation management tools. (25% of final grade)
-2. Requirements: A requirements document of a prototype academic writing and/or citation management system that solves some set of problems identified in assignment 2. (25% of final grade)
-3. Design: A design of a prototype system that meets the requirements set out in assignment 2. (25% of final grade)
-4. Implementation: A prototype system that implements the design set out in assignment 3. (25% of final grade)
-
-### Assignment 1
-
-Assignment 1 will comprise an essay that analyzes and evaluates a selection of current academic writing and citation management tools. It will be graded out of a total of 100 marks.
-
-10 marks will be awarded for proper use of language and styles.
-
-The essay will include the following sections:
-
-- Summary and Conclusion (10 marks)
-- Academic Writing Tools (40 marks)
-- Citation Management Tools (40 marks)
-
-The Academic Writing Tools and Citation Management Tools sections will each analyze and evaluate three (3) different tools.
-
-These sections will include the following sub-sections:
-
-- Summary (5 marks)
-- Comparison Table (5 marks)
-- Tool 1 Analysis (10 marks)
-- Tool 2 Analysis (10 marks)
-- Tool 3 Analysis (10 marks)
-
-The Comparison Table will compare the three selected tools along a number of dimensions including, but not necessarily limited to:
-
-- Ease of use
-- Compatibility
-- Cost
-- Licensing
-
-Each tool's analysis will comprise the following sections (when applicable):
-
-- Summary (2 marks)
-- System Requirements/Dependencies (2 marks)
-- Installation (2 marks)
-- Usage (2 marks)
-  - Writing
-  - Citations
-  - Rendering
-    - PDF
-    - Web document
-- Critical Assessment (2 marks)
-  - Strengths and weaknesses
-
-### Assignment 2
-
-Assignment 2 will comprise a requirements document for a prototype academic writing and/or citation management system that solves some set of problems identified in assignment 2. It will be graded out of a total of 100 marks.
-
-10 marks will be awarded for proper use of language and styles.
-
-Because the specific The requirements document will include the following sections:
-
-- User Requirements
-- System Requirements
+1. [Interface Design](assignment-1.md): An interface design of a prototype academic writing system. (50% of final grade)
+2. [Implementation](assignment-3.md): A prototype system that implements the design in assignment 1. (50% of final grade)
