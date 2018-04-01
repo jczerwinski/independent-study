@@ -4,15 +4,15 @@ Athabasca University
 
 As per the [Independent Study syllabus](http://www.athabascau.ca/syllabi/comp/comp692_3.php).
 
-# Assignment 1 -- User Interface (UI) Design
+# Assignment 2 -- User Interface (UI) Design
 
-Assignment 1 will comprise a UI Design for an academic writing system.
+Assignment 2 comprises a design of an academic writing system.
 
-The UI Design will take the form of a User Manual for the system. It should embody the answer to the question: *"If this system existed today, what would its ideal documentation look like?"*
+The design will take the form of a user guide for the system. It will embody the answer to the question: *"If this system existed today, what would its documentation look like?"*
 
 ## Grading
 
-Assignment 1 will be graded out of a total of 100 marks.
+Assignment 1 is graded out of a total of 100 marks.
 
 | Element                          | Marks |
 |----------------------------------|------:|
@@ -22,13 +22,13 @@ Assignment 1 will be graded out of a total of 100 marks.
 | - Purpose                        |     5 |
 | - System Requirements            |     5 |
 | - Installation                   |    10 |
-| - Get Started                    |    20 |
+| - Getting Started                |    20 |
 | - Documentation 				   |    30 |
 | TOTAL                            |   100 |
 
 ### Language
 
-Ten (10) marks are to be given for proper use of language in the design. Language should be:
+Ten (10) marks are given for proper use of language in the design. Language should be:
 
 - Concise.
 - Grammatically correct.
@@ -36,7 +36,7 @@ Ten (10) marks are to be given for proper use of language in the design. Languag
 
 ### Quality
 
-Twenty (20) marks are to be given for overall quality of the design itself. The design should:
+Twenty (20) marks are given for overall quality of the design itself. The design should:
 
 - Have a logical structure and flow
 - Follow an intuitive model of the problem domain (academic writing)
@@ -46,7 +46,7 @@ Twenty (20) marks are to be given for overall quality of the design itself. The 
 
 ### Content Elements
 
-Eighty (80) marks are to be given for Content Elements of the design. These include:
+Eighty (80) marks are given for Content Elements of the design. These include:
 
 #### Purpose
 
@@ -71,7 +71,7 @@ Eighty (80) marks are to be given for Content Elements of the design. These incl
 - How does a user install the system?
 - Is installation easy?
 
-#### Get Started
+#### Getting Started
 
 *20 marks*
 
